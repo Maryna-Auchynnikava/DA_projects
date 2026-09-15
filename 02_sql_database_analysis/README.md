@@ -1,7 +1,7 @@
 # 🏢 Real Estate Market Analytics: St. Petersburg & Leningrad Region
 > **Двуязычное описание / Bilingual Documentation** (Русский | English)
 
-**Интерактивный дашборд / Live Interactive Dashboard:** [View in Yandex DataLens](https://datalens.yandex/tkndpnoxsdwqf)
+**Интерактивный дашборд / Live Interactive Dashboard:** [View in Yandex DataLens](https://datalens.ru/1u22ejzhbiimn-dashbord-dlya-agentstva-nedvizhimosti)
 
 ---
 
