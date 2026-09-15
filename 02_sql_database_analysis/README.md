@@ -62,7 +62,8 @@ This project was executed for a real estate agency planning to enter the St. Pet
 
 ## 🖼 Предпросмотр дашборда / Dashboard Preview
 
-![Real Estate Analytics Dashboard View](./dashboard_main.png)
+![Real Estate Analytics Dashboard View 1](./dashboard_main1.png)
+![Real Estate Analytics Dashboard View 2](./dashboard_main2.png)
 
 ---
 
