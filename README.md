@@ -15,7 +15,7 @@
 
 ---
 
-### 2. 🏢 [Real Estate Market Analytics: St. Petersburg & Leningrad Region](./02_real_estate_sql_datalens/)
+### 2. 🏢 [Real Estate Market Analytics: St. Petersburg & Leningrad Region](./02_sql_database_analysis/)
 * **Описание:** Комплексный анализ рынка недвижимости для агентства, планирующего выйти на новый регион. Решение ad hoc задач по оценке ликвидности сегментов и сезонности спроса/предложения с помощью SQL (PostgreSQL), а также разработка интерактивного системы мониторинга в DataLens.
 * **Tools:** PostgreSQL, DBeaver, SQL (Relational Joins, Aggregations, Date/Time Functions), Yandex DataLens.
 * **Interactive Dashboard:** [Live in Yandex DataLens](https://datalens.yandex/tkndpnoxsdwqf)
