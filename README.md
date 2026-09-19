@@ -8,7 +8,7 @@
 
 ## 📂 Проекты / Portfolio Projects
 
-### 1. 🎤 [TED Talks Analytics Dashboard: Event Planning & Insights](./01_ted_talks_analytics/)
+### 1. 🎤 [TED Talks Analytics Dashboard: Event Planning & Insights](./01_ted_datalens_dashboard_analytics/)
 * **Описание:** Разработка аналитического инструмента для агентства, приобретающего лицензию на проведение конференций TED. Дашборд помогает формировать контентную стратегию, выбирать площадки, оптимизировать тайминг и подбирать спикеров на основе исторических данных прошлых выступлений.
 * **Tools:** Yandex DataLens, Relational SQL Data Modeling (LEFT JOINs), Aggregation & Top-N Analytics, Parameter Filtering.
 * **Interactive Dashboard:** 📊 [Live in Yandex DataLens](https://datalens.yandex/tkndpnoxsdwqf)
