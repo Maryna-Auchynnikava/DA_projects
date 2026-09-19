@@ -16,7 +16,7 @@
 ### 2. 🏢 [Real Estate Market Analytics: St. Petersburg & Leningrad Region](./02_real_estate_analytics/)
 * **Описание:** Комплексный анализ рынка недвижимости для агентства, планирующего выйти на новый регион. Решение ad hoc задач по оценке ликвидности сегментов и сезонности спроса/предложения с помощью SQL (PostgreSQL), а также разработка интерактивной системы мониторинга в DataLens.
 * **Tools:** PostgreSQL, DBeaver, SQL (Relational Joins, Aggregations, Date/Time Functions), Yandex DataLens.
-* **Interactive Dashboard:** 📊 [Live in Yandex DataLens](URL_ВАШЕГО_ДАШБОРДА_ПО_НЕДВИЖИМОСТИ)
+* **Interactive Dashboard:** 📊 [Live in Yandex DataLens](https://datalens.ru/1u22ejzhbiimn-dashbord-dlya-agentstva-nedvizhimosti)
 
 ### 3. 🎮 [Game Economics & User Behavior Analytics: "Secrets of Darkwood"](./03_game_economics_analytics/)
 * **Описание:** Продуктовый и монетизационный анализ игровой экономики (Game Analytics) в PostgreSQL. Оценка конверсии пользователей в платящих (Payer Rate/Conversion), очистка аномальных и нулевых транзакций, расчет ключевых показателей центральной тенденции и разброса (STDDEV, MEDIAN), а также проверка гипотез о балансе игрового процесса между расами персонажей.
