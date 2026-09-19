@@ -21,7 +21,7 @@
 ### 3. 🎮 [Game Economics & User Behavior Analytics: "Secrets of Darkwood"](./03_gamedev_sql_analytics/)
 * **Описание:** Продуктовый и монетизационный анализ игровой экономики (Game Analytics) в PostgreSQL. Оценка конверсии пользователей в платящих (Payer Rate/Conversion), очистка аномальных и нулевых транзакций, расчет ключевых показателей центральной тенденции и разброса (STDDEV, MEDIAN), а также проверка гипотез о балансе игрового процесса между расами персонажей.
 * **Tools:** PostgreSQL, SQL Statistics (AVG, MEDIAN / PERCENTILE_CONT, STDDEV), Monetization & Product Metrics (Conversion Rate, ARPPU, Item Penetration).
-* **Project Code:** 💻 [SQL Scripts](./03_game_economics_analytics/gamedev_analytics_queries.sql)
+* **Project Code:** 💻 [SQL Scripts](./03_gamedev_sql_analytics/gamedev_analytics_queries.sql)
 
 ### 4. 🍽️ [Moscow Catering Market Research: Location & Concept Strategy](./04_moscow_catering_market/)
 * **Описание:** Исследовательский анализ рынка общественного питания Москвы для инвестиционного фонда. Оценка структуры рынка, географического распределения заведений, доли сетевых форматов, вместимости, рейтингов и зависимости среднего чека от удаленности от центра для формирования рекомендаций по открытию новой точки.
