@@ -27,6 +27,11 @@
 * **Описание:** Исследовательский анализ рынка общественного питания Москвы для инвестиционного фонда. Оценка структуры рынка, географического распределения заведений, доли сетевых форматов, вместимости, рейтингов и зависимости среднего чека от удаленности от центра для формирования рекомендаций по открытию новой точки.
 * **Tools:** Python (Pandas, NumPy), Exploratory Data Analysis (EDA), Data Visualization (Matplotlib, Seaborn), Correlation Analysis (Phik/SciPy), Descriptive Statistics.
 * **Project Notebook:** 📓 [Jupyter Notebook](./04_moscow_catering_market/moscow_catering_analysis.ipynb)
+
+ ### 5. 🚀 [Venture Investments & Startup Financing Market Research](./05_startup_investments_analysis/)
+* **Описание:** Исследовательский и статистический анализ исторических данных венчурного рынка для финансовой компании, планирующей покупку и развитие стартапов. Оценка динамики финансирования по годам, анализ рыночных сегментов (Mass vs. Niche), расчет доли возврата средств (ROI/Payback Ratio) по типам финансирования (`venture`, `seed`, `debt`, `private equity`) и формирование инвестиционной стратегии.
+* **Tools:** Python (Pandas, NumPy), Exploratory Data Analysis (EDA), Time Series & Dynamics, Data Cleansing & Outlier Imputation, Data Visualization (Matplotlib, Seaborn).
+* **Project Notebook:** 📓 [Jupyter Notebook](./05_startup_investments_analysis/startup_investments_analysis.ipynb)
 ---
 
 ## 🛠 Технический стек / Technical Toolkit
